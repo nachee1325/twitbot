@@ -3,9 +3,9 @@ import schedule
 import time
 from slackclient import SlackClient
 
-BOT_ID = "U1V2ZAKKM"
+BOT_ID = "XXXXXXXXX"
 
-slack_client = SlackClient('xoxb-63101359667-MOLWeLhxcOmmSMzWDg7funoI')
+slack_client = SlackClient('xxxx-NNNNNNNNNNN-XXXxxxxxxxxxxxXXXXXXXXXX')
 
 tweetIt = twitterBot.getTrend()
 
