@@ -1,7 +1,7 @@
 import tweepy
 
-auth = tweepy.OAuthHandler("KDTmC5RtLO9qBe4nIQUfRdrfe", "noEGv9jWJjvdSz9nY55Y9u5F4ForzxbVEUjH5UlMymQT2WlQRc")
-auth.set_access_token("757746084298919936-k4BgOiQqrYa5hUWegwf0VcNuaB5ScZh", "ijy3OQOXKcf0rZZUpYRTxZHonRb2el1YvgtTK2SxortZU")
+auth = tweepy.OAuthHandler("xXxXxXxXxXxXxXxXxXxXxXxXx", "xXxXxXxXxXxXxXxXxXxXxXxXxxXxXxXxXxXxXxXxXxXxXxXxXx")
+auth.set_access_token("xXxXxXxXxXxXxXxXxX-xXxXxXxXxXxXxXxXxXxXxXxXxxXxXxX", "xXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx")
 api = tweepy.API(auth)
 
 results = api.trends_place(23424934)
