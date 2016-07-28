@@ -2,7 +2,7 @@ from slackclient import SlackClient
 
 BOT_NAME = 'twitterbosszz'
 
-slack_client = SlackClient('xoxb-63101359667-MOLWeLhxcOmmSMzWDg7funoI')
+slack_client = SlackClient('xxxx-NNNNNNNNNNN-xxxxxXXXXxxxXXXXxxxXXXXx')
 
 
 if __name__ == "__main__":
